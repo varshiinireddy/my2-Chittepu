@@ -11,8 +11,3 @@ _____________________________________________________
 2. Overwater Bungalow Experience
 3. Lagoon Excursions
 ______________________________________________________
-# list of dishes of food
-1. Poisson Cru
-2. Mahi-Mahi
-3. Grilled Seafood
-4. Fresh Fruit Platters
