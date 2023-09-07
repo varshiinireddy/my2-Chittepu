@@ -24,18 +24,14 @@ Physical activity is not only beneficial for our bodies but also for our overall
 
  
 
-| Sport        | Reason for Recommendation | Hours per Week |
+### Recommended Sports and Reasons to Try Them
 
-|--------------|---------------------------|----------------|
-
-| Badminton       | Great for cardio exercise | 5              |
-
-| Trekking       | Scenic and refreshing     | 7              |
-
-| Through ball     | Full-body workout         | 4              |
-
-| Meditation         | Stress relief and balance | 3              |
-
+| Sport            | Reason for Recommendation                                | Weekly Time Commitment (hours) |
+|------------------|----------------------------------------------------------|--------------------------------|
+| Tennis           | Tennis is a great aerobic exercise that improves agility and coordination. It's also a social sport that allows you to meet new people. | 3-5                            |
+| Hiking           | Hiking in nature offers an excellent opportunity to connect with the outdoors, reduce stress, and stay physically active. | 5-7                            |
+| Yoga             | Yoga enhances flexibility, balance, and mental clarity. It's a peaceful practice that promotes mindfulness and relaxation. | 2-4                            |
+| Swimming         | Swimming is a full-body workout that's easy on the joints. It's ideal for cardiovascular health and is a valuable life skill. | 4-6                            |
  
 
 [Click here to know about me](MyStats.md)
