@@ -15,3 +15,27 @@ Feel the warm sand on your skin and let the gentle sounds of waves lull you into
 * Sea food
 * Mahi Mahi
 * Supala
+
+______________________________________________________________________
+
+## Recommended Sports
+
+Physical activity is not only beneficial for our bodies but also for our overall well-being. In this section, I've compiled a list of sports that I highly recommend trying out. Each sport has its unique advantages.Whether you're looking to stay fit, connect with nature, or find a peaceful escape from the daily grind, these sports offer something for everyone. Discover the joy of movement and the numerous benefits of an active lifestyle through these recommended sports
+
+ 
+
+| Sport        | Reason for Recommendation | Hours per Week |
+
+|--------------|---------------------------|----------------|
+
+| Badminton       | Great for cardio exercise | 5              |
+
+| Trekking       | Scenic and refreshing     | 7              |
+
+| Through ball     | Full-body workout         | 4              |
+
+| Meditation         | Stress relief and balance | 3              |
+
+ 
+
+[Click here to know about me](MyStats.md)
