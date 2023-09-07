@@ -34,16 +34,10 @@ Physical activity is not only beneficial for our bodies but also for our overall
 | Swimming         | Swimming is a full-body workout that's easy on the joints. It's ideal for cardiovascular health and is a valuable life skill. | 4-6                            |
 
 
-
+________________________________________________________________________________________
 ## Pithy Quotes
-
- 
-
-> A good programmer is someone who always looks both ways before crossing a one-way street. - *Doug Linder, computer scientist*
-
- 
-
-> A computer is like a violin.You can imagine it making beautiful music, but you have to learn how to play it. - *Bill Gates, the founder of Microsoft,*
+>Prediction is very difficult, especially about the future. - *Niels Bohr*
+> Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - *Marie Curie*
  
 
 [Click here to know about me](MyStats.md)
