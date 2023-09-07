@@ -32,6 +32,18 @@ Physical activity is not only beneficial for our bodies but also for our overall
 | Hiking           | Hiking in nature offers an excellent opportunity to connect with the outdoors, reduce stress, and stay physically active. | 5-7                            |
 | Yoga             | Yoga enhances flexibility, balance, and mental clarity. It's a peaceful practice that promotes mindfulness and relaxation. | 2-4                            |
 | Swimming         | Swimming is a full-body workout that's easy on the joints. It's ideal for cardiovascular health and is a valuable life skill. | 4-6                            |
+
+
+
+## Pithy Quotes
+
+ 
+
+> A good programmer is someone who always looks both ways before crossing a one-way street. - *Doug Linder, computer scientist*
+
+ 
+
+> A computer is like a violin.You can imagine it making beautiful music, but you have to learn how to play it. - *Bill Gates, the founder of Microsoft,*
  
 
 [Click here to know about me](MyStats.md)
